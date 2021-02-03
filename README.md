@@ -1,4 +1,4 @@
-# iTerm2 profile with mapped shortcuts
+# iTerm2 profile
 
 If you miss the linux terminal commands or simply want to use iTerm2 as any other text tool like delete complete words or move to the beginning of the line and so on, you need this mapped profile. 
 
