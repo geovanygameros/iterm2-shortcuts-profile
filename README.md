@@ -6,4 +6,5 @@ If you miss the linux terminal commands or simply want to use iTerm2 as any othe
 
 Just download download the `iterm2-shortcuts-profile.json` and import it in your iterm2 profiles. 
 
+### Importing the profile
 Go to `Preferences -> Profiles` click on  your current profile, click `Other Actions` and `import JSON profiles`. Then just select the `iterm2-shortcuts-profile.json` and you're set.
